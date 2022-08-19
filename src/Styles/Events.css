@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Suez+One&display=swap');
+
+.main-events{
+  display:flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  background: rgb(242, 242, 97);
+  background: linear-gradient(90deg, rgba(242, 242, 97, 0.15) 0%, rgba(255, 13, 91, 0.15) 100%);
+  max-height: max-content;
+  overflow: hidden;
+}
+.container-events {
+  width: 1312px;
+  display: flex;
+  flex-direction: column;
+  height:1100px;
+  align-items: center;
+}
+
+.title-events{
+  margin-bottom: 54px;
+  margin-top: 27px;
+  font-family: 'Suez One', serif;
+  font-size: 72px;
+  color: #232323;
+}
+
+.event-path{
+  display:flex;
+  background-color: transparent;
+  width: 1100px;
+  margin-top:66px;
+}
+
+@media only screen and (max-width:1230px){
+  .event-path{
+    width: 100%;
+    margin-left:80px;
+  }
+}
+
+.link-event{
+  text-decoration:none!important;
+  margin-top:17px;
+  color:#232323!important;
+}
+
+.separator{
+  margin-left:3px;
+  margin-right:3px;
+}
+
+
+@media only screen and (max-height:950px) {
+  .title-events{
+    margin-bottom:30px;
+    font-size: 42px;
+  }
+}
+

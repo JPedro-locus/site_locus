@@ -1,0 +1,633 @@
+@import url('https://fonts.googleapis.com/css2?family=Suez+One&display=swap');
+
+section {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+
+
+}
+
+.main-careers {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  align-items: center;
+
+}
+
+.container-careers {
+  display: flex;
+  justify-content: center;
+  height: auto;
+}
+
+.rail-careers {
+  display: flex;
+  margin-bottom: 88px;
+  margin-top: -138px;
+}
+
+.link-careers {
+  text-decoration: none !important;
+  color: #232323 !important;
+  margin-top: 15px;
+}
+
+.separator {
+  margin-left: 3px;
+  margin-right: 3px;
+}
+
+
+.containerOne-careers {
+  background-color: white;
+  height: 800px;
+  width: 1124px;
+  padding-top: 321px;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  overflow: hidden;
+  position: relative;
+}
+
+.image-careers-div {
+  margin-top: 50px;
+}
+
+.texts-careers {
+  max-width: 578px;
+}
+
+.text1-careers {
+  color: #616861;
+  font-size: 16px;
+}
+
+.text2-careers {
+  color: #232323;
+  font-size: 48px;
+  margin-top: 16px;
+  font-family: 'Suez One', serif;
+  font-weight: 400;
+}
+
+.text3-careers {
+  color: #232323;
+  font-size: 18px;
+  margin-top: 64px;
+  max-width: 553px !important;
+  font-weight: 500;
+  letter-spacing: 5%;
+  line-height: 129%;
+}
+
+.div-button-careers1 {
+  border: 3px solid #00B377;
+  width: 270px;
+  padding: 35px 15px 35px 1px;
+  border-radius: 8px;
+  margin-top: 72px;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  cursor: pointer;
+}
+
+.button-careers2,
+.button-careers1 {
+  border: none;
+  color: #00B377;
+  background-color: transparent;
+  font-weight: 600;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+.div-button-careers2:hover,
+.div-button-careers1:hover {
+  background-color: #6BFFCE;
+}
+
+.div-button-careers2 {
+  border: 3px solid #00B377;
+  width: 270px;
+  padding: 35px 15px 35px 1px;
+  border-radius: 8px;
+  text-align: center;
+  cursor: pointer;
+  justify-content: center;
+  display: flex;
+}
+
+
+.img-button-careers {
+  padding-left: 8px;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+
+.container-benefits {
+  display: flex;
+  align-items: center;
+  background-color: #EFFFF9;
+  border-radius: 72px 72px 0px 0px;
+  width: 1312px !important;
+  flex-direction: column;
+  height: 2500px;
+}
+
+.benefits-green-container {
+  display: flex;
+  width: 100%;
+}
+
+.border-left-green {
+  width: 100%;
+  height: 800px;
+  background-color: #00FFAC;
+  margin-top: 569px;
+  border-right: 8px solid #00b3773f;
+
+}
+
+.border-right-green {
+  width: 100%;
+  height: 800px;
+  background-color: #00FFAC;
+  margin-top: 569px;
+  border-left: 8px solid #00b3773f;
+}
+
+
+.benefits-introduction {
+  text-align: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.text1-benefits {
+  padding-top: 78px;
+  font-size: 48px;
+  font-family: 'Suez One', serif;
+  color: #232323;
+}
+
+.text2-benefits {
+  font-size: 24px;
+  color: #232323;
+  margin-top: 48px;
+  max-width: 900px;
+  font-weight: 500;
+}
+
+.text3-benefits {
+  font-size: 16px;
+  color: #616861;
+  margin-top: 38px;
+  letter-spacing: 5%;
+  font-weight: 500;
+  max-width: 1122px;
+}
+
+.benefits-list {
+  margin-top: 111px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.title-benefits-list {
+  color: #616861;
+  font-weight: 500;
+  font-size: 24px;
+  letter-spacing: 5%;
+}
+
+.subtitle-benefits-list {
+  color: #232323;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 44px;
+  letter-spacing: 5%;
+  margin-top: 36px;
+}
+
+.benefits-images {
+  color: #616861;
+  font-weight: 500;
+  width: 802px;
+  margin-bottom: 100px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.img-benefit-one {
+  margin-left: 18px;
+}
+
+.img-benefit-two {
+  margin-left: 5px;
+}
+
+.benefit {
+  padding-bottom: 30px;
+  display: flex;
+  text-align: left;
+  margin-top: 43px;
+  align-items: flex-end;
+  border-bottom: 1px solid #CAD4D1;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.text-benefits {
+  width: 550px;
+}
+
+.culture-container {
+  max-width: 800px;
+  margin-top: 120px;
+}
+
+.title-culture {
+  color: #616861;
+  font-weight: 500;
+  font-size: 24px;
+  letter-spacing: 5%;
+}
+
+.subtitle-culture {
+  text-align: center !important;
+  color: #232323;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 5%;
+  margin-top: 36px;
+  width: 800px;
+  margin-bottom: 76px !important;
+  margin-left: -10px;
+}
+
+.div-button-careers3 {
+  background-color: #00FFAC;
+  width: 1312px;
+  margin-bottom: 100px;
+  height: 200px;
+  color: #232323;
+  border-radius: 0 0 72px 72px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 16px;
+}
+
+.div-icon-text-careers {
+  display: flex;
+  font-weight: 700;
+}
+
+.div-button-careers3:hover {
+  color: #00B377 !important;
+  font-size: 24px !important;
+}
+
+.text-button-careers3 {
+  margin-right: 5px;
+}
+
+.button-careers1 {
+  border: none;
+  background-color: transparent;
+  font-weight: 600;
+  cursor: pointer;
+  padding-right: 10px;
+}
+
+.mobile-careers {
+  display: none;
+}
+
+.image-careers {
+  visibility: hidden;
+  width: 110%;
+  animation: animaImageCareers 1.2s forwards;
+}
+
+.border-left {
+  position: absolute;
+  top: 380px;
+  left: 765px;
+  animation: animaBorderLeft 1.2s forwards;
+}
+
+.border-right {
+  position: absolute;
+  top: 420px;
+  left: 735px;
+  animation: animaBorderRight 1.2s forwards;
+}
+
+
+@keyframes animaImageCareers {
+  80% {
+    width: 102%;
+    visibility: hidden;
+  }
+
+  100% {
+    width: 100%;
+    visibility: visible;
+
+  }
+}
+
+@keyframes animaBorderRight {
+  80% {
+    top: 420px;
+    left: 735px;
+  }
+
+  100% {
+    top: 350px;
+    left: 790px;
+  }
+}
+
+@keyframes animaBorderLeft {
+  80% {
+    top: 380px;
+    left: 765px;
+  }
+
+  100% {
+    top: 440px;
+    left: 700px;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .main-careers {
+    display: none;
+  }
+
+  .benefits-border {
+    display: none !important;
+  }
+
+  .mobile-careers {
+    padding-top: 170px !important;
+    display: flex;
+    overflow: hidden;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: #232323;
+    margin-bottom: -15%;
+  }
+
+  .introduction-mobile-careers {
+    max-width: 80%;
+    color: #232323;
+  }
+
+  .text2-careers-mobile {
+    font-size: 24px;
+    font-family: 'Suez One', serif;
+    margin-top: 24px;
+    margin-bottom: 40px;
+  }
+
+  .text3-careers-mobile {
+    margin-top: 40px;
+    margin-bottom: 32px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 24px;
+  }
+
+  .buttonCareersMobile {
+    width: 230px;
+    background-color: #6BFFCE;
+    border-radius: 8px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+  }
+
+  .button-careers-mobile {
+    border: none;
+    background-color: transparent;
+    color: #00B377;
+    padding: 20px;
+  }
+
+  .div-green-mobile {
+    background-color: #DAFFF2;
+    border-radius: 24px 24px 0px 0px;
+    width: 100%;
+    margin-top: 56px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 32px;
+    height: 100%;
+  }
+
+  .benefits-introduction-mobile {
+    max-width: 85%;
+  }
+
+  .benefits-images-mobile {
+    display: flex;
+    width: 80%;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin-top: 64px;
+  }
+
+  .benefitsOneMobile {
+    margin-top: 40px;
+    border-bottom: 2px solid #CAD4D1;
+    color: #616861;
+    padding-bottom: 24px;
+  }
+
+  .img-benefitsOneMobile {
+    margin-top: 36px;
+    margin-bottom: 18px;
+  }
+
+  .benefitsFourMobile {
+    margin-top: 40px;
+    margin-bottom: 64px;
+  }
+
+  .text1-benefits-mobile {
+    font-family: 'Suez One', serif;
+    font-size: 24px !important;
+    text-align: center;
+  }
+
+  .text2-benefits-mobile {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    font-size: 16px !important;
+    font-weight: 500;
+    line-height: 16px;
+  }
+
+  .text3-benefits-mobile {
+    font-size: 12px;
+    margin-bottom: 32px;
+  }
+
+  .title-benefits-list-mobile {
+    font-size: 16px;
+    line-height: 16px;
+    margin-bottom: 24px;
+  }
+
+  .title-culture-mobile {
+    margin-top: 100px;
+  }
+
+  .subtitle-culture-mobile {
+    max-width: 95%;
+    margin-top: 24px;
+  }
+
+  .carousel-container-mobile {
+    margin-top: 100px;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    text-align: center;
+    height: 600px;
+  }
+
+
+  .div-button-careers3-mobile {
+    color: #00B377 !important;
+    width: 100%;
+    white-space: nowrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+  .container-button3-careers-mobile{
+    width: 100%;
+    background-color: #00FFAC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    height: 200px;
+    border-radius: 0 0 24px 24px;
+  }
+
+  .div-text-button-careers3-mobile{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .text-button-careers3-mobile{
+    margin-right:6px;
+  }  
+
+@media only screen and (min-width:600px) {
+  .container-button3-careers-mobile{
+    margin-bottom: 250px;
+  }
+}
+
+
+
+@media only screen and (min-width:1000px) and (max-width: 1312px) {
+  .main-careers {
+    overflow: hidden;
+    align-items: center;
+  }
+
+  .benefits-border {
+    display: none;
+  }
+
+  .container-careers {
+    align-items: center;
+    justify-content: center;
+
+  }
+
+  .containerOne-careers {
+    justify-content: center;
+  }
+
+  .texts-careers {
+    width: 300px;
+    margin-right: 100px;
+  }
+
+  .text2-careers {
+    font-size: 30px;
+  }
+
+  .container-benefits {
+    max-width: 1000px;
+  }
+
+  .carousel-container {
+    width: 80%;
+    align-items: center;
+    display: flex;
+  }
+
+  .div-button-careers3 {
+    max-width: 1000px;
+  }
+
+  @keyframes animaBorderRight {
+    80% {
+      top: 420px;
+      left: 550px;
+    }
+
+    100% {
+      top: 350px;
+      left: 650px;
+    }
+  }
+
+  @keyframes animaBorderLeft {
+    80% {
+      top: 380px;
+      left: 600px;
+    }
+
+    100% {
+      top: 440px;
+      left: 560px;
+    }
+  }
+}
+
+svg {
+  width: 100%;
+}

@@ -1,0 +1,11 @@
+.container-carousel{
+  width: 1200px;
+  height: 100vh;
+}
+
+.carouselButton{
+  background-color: transparent;
+  border:none;
+  cursor: pointer;
+  font-size: 40px;
+}

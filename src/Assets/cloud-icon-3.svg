@@ -1,0 +1,21 @@
+<svg width="64" height="57" viewBox="0 0 64 57" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M54.9628 33.0051H28.3075C25.8629 28.8223 21.3215 26 16.105 26C8.31094 26 2 32.264 2 40C2 47.736 8.31094 54 16.105 54C21.3215 54 25.8629 51.1777 28.3075 46.9949H37.2983L41.9114 42.4162L46.5244 46.9949L50.7385 42.8122L54.9526 46.9949L62 40L54.9526 33.0051H54.9628ZM13.7013 44.9137C10.9703 44.9137 8.76099 42.7208 8.76099 40.0102C8.76099 37.2995 10.9703 35.1066 13.7013 35.1066C16.4323 35.1066 18.6417 37.2995 18.6417 40.0102C18.6417 42.7208 16.4323 44.9137 13.7013 44.9137Z" fill="url(#paint0_linear_6486_6562)" stroke="#232323" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.59 6.87012H2.5" stroke="#232323" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M5.01953 2.5L10.0695 11.24" stroke="#232323" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.0695 2.5L5.01953 11.24" stroke="#232323" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28.7792 6.87012H18.6992" stroke="#232323" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21.2188 2.5L26.2588 11.24" stroke="#232323" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M26.2588 2.5L21.2188 11.24" stroke="#232323" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M44.9806 6.87012H34.8906" stroke="#232323" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M37.4102 2.5L42.4602 11.24" stroke="#232323" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M42.4602 2.5L37.4102 11.24" stroke="#232323" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M61.1698 6.87012H51.0898" stroke="#232323" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M53.6094 2.5L58.6494 11.24" stroke="#232323" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M58.6494 2.5L53.6094 11.24" stroke="#232323" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<linearGradient id="paint0_linear_6486_6562" x1="12.6171" y1="23.665" x2="45.3066" y2="56.5895" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00FFAC"/>
+<stop offset="1" stop-color="#58CBFB"/>
+</linearGradient>
+</defs>
+</svg>
